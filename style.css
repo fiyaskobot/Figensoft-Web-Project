@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#figensoftLogo{
+    float: left;
+    margin-right: 100px;
+}
+#header a{
+    position: relative;
+    top:90px;
+    margin: 30px;
+    float: right;
+}
+
+
